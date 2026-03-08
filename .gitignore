@@ -1,0 +1,16 @@
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 에디터
+.vscode/
+.idea/
+
+# 개발 임시 파일
+*.log
+*.tmp
+
+# 기획서 (배포 불필요)
+개인홈페이지_개발기획서.md
+caricature.svg
+ppp.pdf
